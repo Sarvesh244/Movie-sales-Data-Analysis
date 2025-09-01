@@ -50,14 +50,7 @@ This dashboard helped the client:
 
 ---
 
-## 🙏 Gratitude
-
-Special thanks to **Prasad Charate Sir** and **Innomatics Research Labs** for their mentorship and support throughout this journey. Their guidance helped me build clarity, confidence, and storytelling precision in data visualization.
-
----
-
 ## 🔗 Repository
 
 Explore the full dashboard and visuals in this repository.  
-Feel free to share feedback or connect if you're working on similar data storytelling projects!
 
